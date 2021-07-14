@@ -1,0 +1,180 @@
+@media screen and (max-width:1200px){
+    .search{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center; 
+        margin: 15px auto;
+        
+    }
+    .search input{
+        width: 1250px;
+        height: 50px;
+        border-radius: 15px 15px 15px 15px;
+        outline: none;
+        font-size: 20px;
+        background: linear-gradient(#020024,#1fb18d,#1cb498,#18b9a8,#00d4ff);
+    
+    }
+    .search button{
+        width: 100px;
+        height: 50px;
+        border-radius: 15px 15px 15px 15px;
+        background: linear-gradient(#020024,#1fb18d,#1cb498,#18b9a8,#00d4ff);
+        margin-left: 15px;
+        color: white;
+        font-size: 15px;
+        cursor: pointer;
+    }
+    .registration{
+        width: 590px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        margin: 205px auto;
+        box-shadow: 0 3px 20px rgba(0, 0, 0, 0.25);
+        border-radius: 10px 10px 10px 10px;
+        background: linear-gradient(#020024,#1fb18d,#1cb498,#18b9a8,#00d4ff);
+        
+    }
+    .registration input{
+        width: 550px;
+        height: 30px;
+        margin: 20px auto;
+        border-radius: 10px 10px 10px 10px;
+        outline: none;
+        font-size: 15px;
+    
+    }
+    .registration button{
+        width: 250px;
+        height: 30px;
+        margin: 20px auto;
+        font-size: 20px;
+        border-radius: 40%;
+        background: linear-gradient(#020024,#1fb18d,#1cb498,#18b9a8,#00d4ff);
+        color: white;
+        cursor: pointer;
+    }
+
+}
+@media screen and (max-width:992px){
+    .search{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center; 
+        margin: 15px auto;
+        
+    }
+    .search input{
+        width: 1250px;
+        height: 50px;
+        border-radius: 15px 15px 15px 15px;
+        outline: none;
+        font-size: 15px;
+        background: linear-gradient(#020024,#1fb18d,#1cb498,#18b9a8,#00d4ff);
+    
+    }
+    .search button{
+        width: 100px;
+        height: 50px;
+        border-radius: 15px 15px 15px 15px;
+        background: linear-gradient(#020024,#1fb18d,#1cb498,#18b9a8,#00d4ff);
+        margin-left: 15px;
+        color: white;
+        font-size: 14px;
+        cursor: pointer;
+    }
+    .registration{
+        width: 570px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        margin: 205px auto;
+        box-shadow: 0 3px 20px rgba(0, 0, 0, 0.25);
+        border-radius: 10px 10px 10px 10px;
+        background: linear-gradient(#020024,#1fb18d,#1cb498,#18b9a8,#00d4ff);
+        
+    }
+    .registration input{
+        width: 500px;
+        height: 30px;
+        margin: 20px auto;
+        border-radius: 10px 10px 10px 10px;
+        outline: none;
+        font-size: 13px;
+    
+    }
+    .registration button{
+        width: 180px;
+        height: 28px;
+        margin: 20px auto;
+        font-size: 13px;
+        border-radius: 40%;
+        background: linear-gradient(#020024,#1fb18d,#1cb498,#18b9a8,#00d4ff);
+        color: white;
+        cursor: pointer;
+    }
+}
+/* ----------------------------------------------------- */
+
+@media  screen and (max-width:580px) {
+    .search{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center; 
+        margin: 15px auto;
+        
+    }
+    .search input{
+        width: 1000px;
+        height: 50px;
+        border-radius: 15px 15px 15px 15px;
+        outline: none;
+        font-size: 12px;
+        background: linear-gradient(#020024,#1fb18d,#1cb498,#18b9a8,#00d4ff);
+    
+    }
+    .search button{
+        width: 100px;
+        height: 50px;
+        border-radius: 15px 15px 15px 15px;
+        background: linear-gradient(#020024,#1fb18d,#1cb498,#18b9a8,#00d4ff);
+        margin-left: 15px;
+        color: white;
+        font-size: 11px;
+        cursor: pointer;
+    }
+    .registration{
+        width: 520px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        margin: 205px auto;
+        box-shadow: 0 3px 20px rgba(0, 0, 0, 0.25);
+        border-radius: 10px 10px 10px 10px;
+        background: linear-gradient(#020024,#1fb18d,#1cb498,#18b9a8,#00d4ff);
+        
+    }
+    .registration input{
+        width: 470px;
+        height: 30px;
+        margin: 20px auto;
+        border-radius: 10px 10px 10px 10px;
+        outline: none;
+        font-size: 11px;
+    
+    }
+    .registration button{
+        width: 135px;
+        height: 28px;
+        margin: 20px auto;
+        font-size: 13px;
+        border-radius: 40%;
+        background: linear-gradient(#020024,#1fb18d,#1cb498,#18b9a8,#00d4ff);
+        color: white;
+        cursor: pointer;
+    }
+}

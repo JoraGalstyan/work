@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+body{
+    width: 100%;
+    height:auto;
+    background: linear-gradient(#020024,#1fb18d,#1cb498,#18b9a8,#00d4ff);
+}
+
+header{
+    width: 100%;
+    height:auto;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.size{
+    width: 80%;
+    height: auto;
+    margin: 250px auto;
+}
+.men_clock{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin:35px 0px;
+    
+    
+}
+.men_clock img{
+    width: 300px;
+    height: 300px;
+    margin: 0px 40px;
+    box-shadow: 18px 18px 37px 9px rgba(255, 255, 255, 0.24);
+
+
+}
+.women_clock{
+    width: 100%;
+    height: auto;
+    display:flex;
+    justify-content: center;
+   
+}
+.women_clock img{
+    width: 300px;
+    height: 300px;
+    margin: 0px 40px;
+    box-shadow: 18px 18px 37px 9px rgba(255, 255, 255, 0.24);
+
+}
